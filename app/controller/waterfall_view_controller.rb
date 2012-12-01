@@ -1,6 +1,5 @@
 class WaterfallViewController < UICollectionViewController
   CELL_IDENTIFIER = "Waterfall cell"
-  HEADER_ID = "Header view"
   CELL_WIDTH = 160
   CELL_COUNT = 30
   
